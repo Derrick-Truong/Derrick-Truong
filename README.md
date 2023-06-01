@@ -11,4 +11,13 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/2ikwIgNrmPZICNmRyX/giphy.gif" width="600" height="300"/>
+</div>
+---
+
+### :woman_technologist: About Me :
+I am an aspiring full time Full Stack Developer while juggling being a full time dog <img src="https://media.giphy.com/media/TFTTNIjzFSHwdyKLmb/giphy.gif" width="30"> enthusiast.
+
+Below are a few projects I worked on that show a wide range of my web-development capabilities:
 
