@@ -20,9 +20,11 @@
 ### :man_technologist: About Me :
 I am an aspiring full time Full Stack Developer while juggling being a full time dog <img src="https://media.giphy.com/media/TFTTNIjzFSHwdyKLmb/giphy.gif" width="30"> enthusiast.
 
-Below are a few projects I worked on that show a wide range of my web-development capabilities:
-- 
-
+Outside of coding, some of my passions and hobbies include:
+- 🏀 watching and playing basketball (Go Warriors!)
+- 🎥 watching the latest movies (no horror though please)
+- 🥘 trying new foods from any culture/background
+- 👪 making friends and creating new bonds
 
 ---
 
