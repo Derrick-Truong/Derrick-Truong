@@ -32,6 +32,9 @@ Outside of coding, some of my passions and hobbies include:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Derrick-Truong&theme=dark&background=000000)](https://git.io/streak-stats)
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/dtruong169)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Derrick-Truong&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
